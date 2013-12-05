@@ -1,0 +1,4 @@
+code app/code/community/Shopix/Externlog
+design/template app/design/adminhtml/default/default/template/shopix_externlog
+Shopix_Externlog.xml app/etc/modules/Shopix_Externlog.xml
+shell/shopix-externlog.php shell/shopix-externlog.php
